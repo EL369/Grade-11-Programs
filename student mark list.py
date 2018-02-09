@@ -1,9 +1,11 @@
 ##Evelyn Li
 ##April 26, 2017
 
+# Enter the names of the student and marks
+# Find the class average and highest and lowest marks
+# Generate a sorted mark list (choose to sort by name or mark)
 
 ##Variable map
-
 ##NAME                       PURPOSE                            TYPE                               RAMGE
 ##studentname            Ask for stud name                     string                              none
 ##highmark               Highest mark valid to enter            int                                100
@@ -14,10 +16,6 @@
 ##totalmarkall           Total mark in class                    int                                none
 ##lowest                Lowest mark in class                    int                                100
 ##highest               Highest mark in class                   int                                 0
-
-
-
-
 
 #Declear variables
 studname        = ""
