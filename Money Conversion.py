@@ -1,3 +1,5 @@
+# Enter the number of pennies and convert to toonies, loonies, quaters, dimes and nickles
+
 ##                          Variable Map
 ##  NAME          PURPOSE                         TYPE                       RESTRICTIONS
 ## penny        # of pennies                      int                         0 to 1000
